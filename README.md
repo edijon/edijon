@@ -1,3 +1,3 @@
 I'm Etienne,
 
-currently professional software engineer in DevOps environment and open-source enthusiast.
+currently professional software engineer and open-source enthusiast in DevOps environment.
